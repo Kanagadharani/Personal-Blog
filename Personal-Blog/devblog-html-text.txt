@@ -1,0 +1,215 @@
+alt: Devblog's logo
+Home
+About Me
+Contact
+
+
+
+Hi, I'm Julia Walker.
+Web Developer
+Specialized in a11y and Core Web Vitals
+
+
+
+Contact Me
+About Me
+
+alt: Julia Walker
+
+
+
+Latest Blog Post
+
+alt: Building microservices with Dropwizard, MongoDB & Docker
+Database
+Building microservices with Dropwizard, MongoDB & Docker
+
+This NoSQL database oriented to documents (by documents like JSON) combines 
+some of the features from relational databases, easy to use and the 
+multi-platform is the best option for scale up and have fault tolerance, load balancing, map reduce, etc.
+
+alt: Julia Walker
+Jan 17, 2022
+3 min
+
+
+alt: Fast web page loading on a $20 feature phone
+Web Performance
+Fast web page loading on a $20 feature phone
+
+Feature phones are affordable (under $20-25), low-end devices enabling 
+100s of millions of users in developing countries to leverage the web. 
+Think of them as a light version of a smart phone.
+
+alt: Julia Walker
+Dec 10, 2021
+2 min
+
+
+alt: Accessibility Tips for Web Developers
+Accessibility
+Accessibility Tips for Web Developers
+
+It's awesome to build sites that are inclusive and accessible to everyone. 
+There are at least six key areas of disability we can optimize for: visual, 
+hearing, mobility, cognition, speech and neural. Many tools and 
+resources can help here, even if you're totally new to web accessibility.
+
+alt: Julia Walker
+Nov 28, 2021
+4 min
+
+
+alt: Dynamically Securing Databases using Hashicorp Vault
+Database
+Dynamically Securing Databases using Hashicorp Vault
+
+Nowadays, it's hard to profoundly talk about security in the IT industry, 
+since it has to be considered on so many different levels: from securing code chunks, 
+securing containers, up to securing complex infrastructures and defining 
+strong authorization and authentication policies across the enterprise.
+
+alt: Julia Walker
+Nov 20, 2021
+4 min
+
+
+alt: Adaptive Loading - Improving Web Performance on low-end devices
+Web Performance
+Adaptive Loading - Improving Web Performance on low-end devices
+
+Adaptive Loading: Do not just respond based on screen size, 
+adapt based on actual device hardware. Any user can have a slow experience. 
+In a world with widely varying device capabilities, a "one-size" fits all 
+experience may not always work. Sites that delight users on high-end devices 
+can be unusable on low-end ones, particularly on median mobile and desktop 
+hardware and in emerging markets.
+
+alt: Julia Walker
+Nov 10, 2021
+3 min
+
+
+alt: Don't Develop Just for Yourself - A Developer's Checklist to Accessibility
+Accessibility
+Don't Develop Just for Yourself - A Developer's Checklist to Accessibility
+
+We, as developers, tend to develop sites unconsciously for people like ourselves. 
+If we don't actively pay attention, the sites are often accessible only for certain 
+types of people: Sighted mouse-users, who have good fine motor skills and are good at using computers.
+
+alt: Julia Walker
+Oct 25, 2021
+7 min
+
+
+alt: Building a Restful CRUD API with Node JS, Express, and MongoDB
+Database
+Building a Restful CRUD API with Node JS, Express, and MongoDB
+
+Application Programming Interface is the abbreviation for API. 
+An API is a software interface that enables two apps to communicate with one another. 
+In other words, an API is a messenger that sends your request to the provider and then returns the response to you.
+
+alt: Julia Walker
+Oct 15, 2021
+5 min
+
+
+alt: Monitoring Performance with the PageSpeed Insights API
+Web Performance
+Monitoring Performance with the PageSpeed Insights API
+
+The PageSpeed Insights API provides free access to performance monitoring for 
+web pages and returns data with suggestions for how to improve. The V5 API includes 
+lab data from Lighthouse and real-world data from the Chrome User Experience Report (CrUX).
+
+alt: Julia Walker
+Oct 3, 2021
+5 min
+
+
+alt: The best web accessibility tools for developers in 2021
+Accessibility
+The best web accessibility tools for developers in 2021
+
+The quality of the tools you use defines the speed with which you can diagnose and 
+resolve problems. Each year the landscape changes dramatically in web technologies, 
+and of late the tooling for accessibility is no exception.
+
+alt: Julia Walker
+Sep 13, 2021
+7 min
+
+
+alt: How to connect a React frontend with a NodeJS/Express backend
+Database
+How to connect a React frontend with a NodeJS/Express backend
+
+The MERN (MongoDB, Express, React, NodeJS) stack is very popular for making full stack 
+applications, utilizing Javascript for both the backend and frontend as well as a 
+document-oriented or non relational database (MongoDB), meaning that it's structured like 
+JSON rather than a large excel sheet like SQL databases are.
+
+alt: Julia Walker
+Sep 21, 2021
+4 min
+
+
+Load More
+
+
+
+Topics
+
+Database
+Accessibility
+Web Performance
+
+
+
+Tags
+
+#mongodb
+#nodejs
+#a11y
+#mobility
+#inclusion
+#webperf
+#optimize
+#performance
+
+
+
+Let's Talk
+
+Do you want to learn more about how I can help your 
+company overcome problems? Let us have a conversation.
+
+
+
+Newsletter
+
+Subscribe to our newsletter to be among the first 
+to keep up with the latest updates.
+
+placeholder: Email Address
+
+Subscribe
+
+
+
+alt: DevBlog's Logo
+Learn about Web accessibility, Web performance, and Database management.
+
+Quick Links
+
+Advertise with us
+About Us
+Contact Us
+
+Legal Stuff
+
+Privacy Notice
+Cookie Policy
+Terms Of Use
